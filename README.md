@@ -1,2 +1,2 @@
 # bobnet
- we literally made the internet wtf
+internet clone but its really only a dns ripoff
